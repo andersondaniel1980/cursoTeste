@@ -1,3 +1,7 @@
 ALTERANDO NA BRANCH MASTER
+<<<<<<< HEAD
 
 ALterando na master 2
+=======
+ALteando na layout 2
+>>>>>>> layout
