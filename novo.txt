@@ -1,2 +1,20 @@
+<<<<<<< HEAD
 SAs
 
+=======
+sdasasd
+asd
+as
+d
+as
+das
+d
+as
+asdsadasdas
+d
+asd
+as
+d
+assdsadasd
+dasdasdas
+>>>>>>> master
